@@ -20,12 +20,10 @@ function App() {
                     </a>
                   </header>
                   */
-        } <
-        h1 > Ali Razavi! < /h1>
+        } <h1> Ali Razavi </h1>
 
-        <
-        h2 > سیدعلی رضوی ابراهیمی < /h2>
-        div >
+        <h2> سیدعلی رضوی ابراهیمی  </h2>
+        </div>
     );
 }
 
